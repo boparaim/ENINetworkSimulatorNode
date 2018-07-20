@@ -1,0 +1,19 @@
+{
+  "name": "eninetworksimulatornode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-prebuilt": "^1.6.5-prerelease.1",
+    "express": "^4.16.3",
+    "jsdom": "^11.11.0",
+    "jsdom-global": "^3.0.2",
+    "mysql": "^2.16.0",
+    "vis": "^4.21.0"
+  }
+}
